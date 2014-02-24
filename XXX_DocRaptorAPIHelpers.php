@@ -8,7 +8,7 @@ abstract class XXX_DocRaptorAPIHelpers
 	{
 		$result = false;
 		
-		$response = XXX_HTTP_Request::execute($uri, 'body', $data);
+		$response = XXX_HTTP_Request::execute($uri, 'body', $data, 30);
 		
 		if ($response != false)
 		{
