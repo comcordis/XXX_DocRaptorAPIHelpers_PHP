@@ -1,0 +1,6 @@
+project:XXX_DocRaptorAPIHelpers_PHP
+deployEnvironment:development
+checkout:master
+commitHash:d54959769ea206f30c0ecdc2400b49e5d374648f
+timestamp:2015-04-13T09:44:06Z
+deployer:operations
